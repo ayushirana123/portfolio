@@ -84,9 +84,8 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 
 ## 📫 Contact Me
 
-- **LinkedIn**: [Ayushi Rana](https://www.linkedin.com/in/ayushi-rana)
+- **LinkedIn**: [Ayushi Rana](www.linkedin.com/in/ayushi-rana-9b1927228)
 - **GitHub**: [ayushirana123](https://github.com/ayushirana123)
-- **Instagram**: [ayushirana123](https://instagram.com/ayushirana123)
 
 ---
 
