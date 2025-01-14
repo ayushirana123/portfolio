@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 
 - 🎓 **MCA Specialization**: Artificial Intelligence and Machine Learning at Uttaranchal University, Dehradun (2024-2026).
 - 🎓 **BCA Graduate**: COER University, Roorkee with a CGPA of 9.68.
-- 🏆 Achievements: Third position in essay writing, multiple academic awards, and a Cisco Networking Certificate.
-- 🐾 **Fun Fact**: I have a loving dog named Gucci. 🐕
+- 🏆 Achievements: Third position in  academic awards, and a Cisco Networking Certificate.
+  
 
 ---
 
