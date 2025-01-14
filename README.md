@@ -89,7 +89,7 @@ Welcome to my GitHub profile! I'm passionate about technology, specializing in P
 
 ## 📑 Resume  
 
-🔗 [Download My Resume](https://your-resume-link.com)  
+🔗 [Download My Resume](https://drive.google.com/file/d/1Ap9q1J8VWMk1ujoF8xLuXTNW_yccGe0G/view?usp=sharing)  
 
 ---
 
