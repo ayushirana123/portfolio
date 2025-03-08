@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about technology, specializing in P
 - **Duration**: January 2025 - May 2025.  
 - **Description**: In this project we have tracked the speed of vehicle.
 
-###21. **Nova: Virtual Assistant**
+### 2. **Nova: Virtual Assistant**
 - **Duration**: August 2024 - December 2024.  
 - **Tech Stack**: HTML, CSS, JavaScript.  
 - **Features**: A user-friendly virtual assistant to assist with daily tasks.
