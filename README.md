@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about technology, specializing in P
 
 ## 📂 Projects
 
-### 1. **Smart Vehicle Speed Tracker
+### 1. **Smart Vehicle Speed Tracker**
 - **Duration**: January 2025 - May 2025.  
 - **Description**: In this project we have tracked the speed of vehicle.
 
