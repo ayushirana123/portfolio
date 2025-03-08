@@ -19,11 +19,7 @@ Welcome to my GitHub profile! I'm passionate about technology, specializing in P
 ### **Programming Languages**
 - **Python**: Proficient in Pandas, NumPy, Flask, Django.
 - **Java**: Expertise in Core Java and Android Development.
-- **JavaScript**: Functional scripting for dynamic web interfaces.
-
-### **Web Development**
-- HTML, CSS, Bootstrap, Flexbox.
-- Full-Stack Development (emphasis on back-end systems).
+  
 
 ### **Databases**
 - MySQL, SQLite.
@@ -36,12 +32,11 @@ Welcome to my GitHub profile! I'm passionate about technology, specializing in P
 
 ## 📂 Projects
 
-### 1. **Library Management System**
-- **Description**: A robust system for managing books, authors, and user data with integrated security mechanisms.  
-- **Tech Stack**: Python, SQLite.  
-- **Key Features**: Search, add, and manage records efficiently.
+### 1. **Smart Vehicle Speed Tracker
+- **Duration**: January 2025 - May 2025.  
+- **Description**: In this project we have tracked the speed of vehicle.
 
-### 2. **Nova: Virtual Assistant**
+###21. **Nova: Virtual Assistant**
 - **Duration**: August 2024 - December 2024.  
 - **Tech Stack**: HTML, CSS, JavaScript.  
 - **Features**: A user-friendly virtual assistant to assist with daily tasks.
@@ -50,11 +45,7 @@ Welcome to my GitHub profile! I'm passionate about technology, specializing in P
 - **Duration**: February 2023 - May 2023.  
 - **Description**: An interactive Python-based quiz game with customizable questions, scoring, and feedback.
 
-### 4. **Hospital Management System**
-- **Description**: A Python project designed to manage hospital records, streamline data handling, and improve efficiency.  
-- **Tech Stack**: Python, Database.
-
----
+ 
 
 ## 🌟 Certifications
 
@@ -101,3 +92,4 @@ Welcome to my GitHub profile! I'm passionate about technology, specializing in P
 ---
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+AYUSHI RANA.
